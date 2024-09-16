@@ -1,0 +1,24 @@
+title: Translation Technology
+description: Online course for Translation Technology
+theme: minimal-mistakes-jekyll
+collections:
+  pages:
+    output: true
+
+# Navigation menu
+header_pages:
+  - title: Home
+    url: /
+  - title: Course Orientation
+    url: /course-orientation
+  - title: Course Content
+    url: /course-content
+  - title: Course Assessment
+    url: /course-assessment
+
+# Set this to true to make sure the menu items are in the right order.
+header_menu:
+  enabled: true
+
+# Other settings you might want to include
+markdown: kramdown
